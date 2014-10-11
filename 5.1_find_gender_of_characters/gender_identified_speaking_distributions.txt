@@ -1,0 +1,842 @@
+Mac.xml	Lennox	558	Tragedy	1606	Macbeth (1606)	male
+Mac.xml	Duncan	553	Tragedy	1606	Macbeth (1606)	male
+Mac.xml	Seyton	38	Tragedy	1606	Macbeth (1606)	male
+Mac.xml	YoungSiward	58	Tragedy	1606	Macbeth (1606)	male
+Mac.xml	Banquo	881	Tragedy	1606	Macbeth (1606)	male
+Mac.xml	Porter	325	Tragedy	1606	Macbeth (1606)	male
+Mac.xml	Ross	970	Tragedy	1606	Macbeth (1606)	male
+Mac.xml	Siward	246	Tragedy	1606	Macbeth (1606)	male
+Mac.xml	LadyMacbeth	2101	Tragedy	1606	Macbeth (1606)	female
+Mac.xml	Menteith	76	Tragedy	1606	Macbeth (1606)	male
+Mac.xml	Donalbain	74	Tragedy	1606	Macbeth (1606)	male
+Mac.xml	Angus	141	Tragedy	1606	Macbeth (1606)	male
+Mac.xml	Caithness	76	Tragedy	1606	Macbeth (1606)	male
+Mac.xml	LadyMacduff	335	Tragedy	1606	Macbeth (1606)	female
+Mac.xml	Gentlewoman	212	Tragedy	1606	Macbeth (1606)	female
+Mac.xml	Macduff	1267	Tragedy	1606	Macbeth (1606)	male
+Mac.xml	Fleance	18	Tragedy	1606	Macbeth (1606)	male
+Mac.xml	Malcolm	1593	Tragedy	1606	Macbeth (1606)	male
+Mac.xml	Macbeth	5737	Tragedy	1606	Macbeth (1606)	male
+Mac.xml	OldMan	97	Tragedy	1606	Macbeth (1606)	male
+Mac.xml	Doctor1	36	Tragedy	1606	Macbeth (1606)	male
+Mac.xml	Doctor2	329	Tragedy	1606	Macbeth (1606)	male
+Ado.xml	Ursula	399	Comedy	1598	Much Ado about Nothing (1598)	female
+Ado.xml	Beatrice	2508	Comedy	1598	Much Ado about Nothing (1598)	female
+Ado.xml	DonJohn	1020	Comedy	1598	Much Ado about Nothing (1598)	male
+Ado.xml	Benedick	4026	Comedy	1598	Much Ado about Nothing (1598)	male
+Ado.xml	Hero	1072	Comedy	1598	Much Ado about Nothing (1598)	female
+Ado.xml	Margaret	588	Comedy	1598	Much Ado about Nothing (1598)	female
+Ado.xml	Conrade	280	Comedy	1598	Much Ado about Nothing (1598)	male
+Ado.xml	Boy	8	Comedy	1598	Much Ado about Nothing (1598)	male
+Ado.xml	Dogberry	1661	Comedy	1598	Much Ado about Nothing (1598)	male
+Ado.xml	Antonio	22	Comedy	1598	Much Ado about Nothing (1598)	male
+Ado.xml	Leonato	2861	Comedy	1598	Much Ado about Nothing (1598)	male
+Ado.xml	Sexton	117	Comedy	1598	Much Ado about Nothing (1598)	male
+Ado.xml	FriarFrancis	627	Comedy	1598	Much Ado about Nothing (1598)	male
+Ado.xml	Borachio	1060	Comedy	1598	Much Ado about Nothing (1598)	male
+Ado.xml	Verges	221	Comedy	1598	Much Ado about Nothing (1598)	male
+Ado.xml	Claudio	2263	Comedy	1598	Much Ado about Nothing (1598)	male
+Ado.xml	LeonatosBrother	443	Comedy	1598	Much Ado about Nothing (1598)	male
+Ado.xml	DonPedro	2685	Comedy	1598	Much Ado about Nothing (1598)	male
+Ado.xml	Balthasar	197	Comedy	1598	Much Ado about Nothing (1598)	male
+Ant.xml	Agrippa	424	Tragedy	1607	Antony and Cleopatra (1607)	male
+Ant.xml	Canidius	192	Tragedy	1607	Antony and Cleopatra (1607)	male
+Ant.xml	Diomedes	155	Tragedy	1607	Antony and Cleopatra (1607)	male
+Ant.xml	Soothsayer	223	Tragedy	1607	Antony and Cleopatra (1607)	male
+Ant.xml	Seleucus	29	Tragedy	1607	Antony and Cleopatra (1607)	male
+Ant.xml	Egyptian	41	Tragedy	1607	Antony and Cleopatra (1607)	male
+Ant.xml	Demetrius	56	Tragedy	1607	Antony and Cleopatra (1607)	male
+Ant.xml	Scarus	304	Tragedy	1607	Antony and Cleopatra (1607)	male
+Ant.xml	Taurus	3	Tragedy	1607	Antony and Cleopatra (1607)	male
+Ant.xml	Pompey	1008	Tragedy	1607	Antony and Cleopatra (1607)	male
+Ant.xml	Iras	192	Tragedy	1607	Antony and Cleopatra (1607)	female
+Ant.xml	Maecenas	278	Tragedy	1607	Antony and Cleopatra (1607)	male
+Ant.xml	Dolabella	342	Tragedy	1607	Antony and Cleopatra (1607)	male
+Ant.xml	Boy	41	Tragedy	1607	Antony and Cleopatra (1607)	male
+Ant.xml	Mardian	125	Tragedy	1607	Antony and Cleopatra (1607)	male
+Ant.xml	Gallus	27	Tragedy	1607	Antony and Cleopatra (1607)	male
+Ant.xml	Ventidius	236	Tragedy	1607	Antony and Cleopatra (1607)	male
+Ant.xml	Philo	139	Tragedy	1607	Antony and Cleopatra (1607)	male
+Ant.xml	Cleopatra	5165	Tragedy	1607	Antony and Cleopatra (1607)	female
+Ant.xml	Charmian	745	Tragedy	1607	Antony and Cleopatra (1607)	female
+Ant.xml	Lepidus	475	Tragedy	1607	Antony and Cleopatra (1607)	male
+Ant.xml	Countryman	273	Tragedy	1607	Antony and Cleopatra (1607)	male
+Ant.xml	Octavia	258	Tragedy	1607	Antony and Cleopatra (1607)	female
+Ant.xml	Alexas	234	Tragedy	1607	Antony and Cleopatra (1607)	male
+Ant.xml	Antony	6561	Tragedy	1607	Antony and Cleopatra (1607)	male
+Ant.xml	Proculeius	239	Tragedy	1607	Antony and Cleopatra (1607)	male
+Ant.xml	Ambassador	112	Tragedy	1607	Antony and Cleopatra (1607)	male
+Ant.xml	Varrius	28	Tragedy	1607	Antony and Cleopatra (1607)	male
+Ant.xml	Enobarbus	2689	Tragedy	1607	Antony and Cleopatra (1607)	male
+Ant.xml	Thidias	211	Tragedy	1607	Antony and Cleopatra (1607)	male
+Ant.xml	Silius	70	Tragedy	1607	Antony and Cleopatra (1607)	male
+Ant.xml	Octavius	3121	Tragedy	1607	Antony and Cleopatra (1607)	male
+Ant.xml	Menas	556	Tragedy	1607	Antony and Cleopatra (1607)	male
+Ant.xml	Eros	323	Tragedy	1607	Antony and Cleopatra (1607)	male
+WT.xml	Leontes	5149	Comedy	1610	'The Winter''s Tale (1610)'	male
+WT.xml	Autolycus	2556	Comedy	1610	'The Winter''s Tale (1610)'	male
+WT.xml	Jailer	80	Comedy	1610	'The Winter''s Tale (1610)'	male
+WT.xml	Cleomenes	149	Comedy	1610	'The Winter''s Tale (1610)'	male
+WT.xml	Camillo	2222	Comedy	1610	'The Winter''s Tale (1610)'	male
+WT.xml	Mopsa	158	Comedy	1610	'The Winter''s Tale (1610)'	female
+WT.xml	Shepherd	1145	Comedy	1610	'The Winter''s Tale (1610)'	male
+WT.xml	Dion	205	Comedy	1610	'The Winter''s Tale (1610)'	male
+WT.xml	Archidamus	195	Comedy	1610	'The Winter''s Tale (1610)'	male
+WT.xml	ShepherdsSon	1783	Comedy	1610	'The Winter''s Tale (1610)'	male
+WT.xml	Chorus	275	Comedy	1610	'The Winter''s Tale (1610)'	female
+WT.xml	Hermione	1639	Comedy	1610	'The Winter''s Tale (1610)'	female
+WT.xml	Perdita	948	Comedy	1610	'The Winter''s Tale (1610)'	female
+WT.xml	Florizell	1469	Comedy	1610	'The Winter''s Tale (1610)'	male
+WT.xml	Dorcas	78	Comedy	1610	'The Winter''s Tale (1610)'	female
+WT.xml	Paulina	2510	Comedy	1610	'The Winter''s Tale (1610)'	female
+WT.xml	Polixenes	2043	Comedy	1610	'The Winter''s Tale (1610)'	male
+WT.xml	Sailor	85	Comedy	1610	'The Winter''s Tale (1610)'	male
+WT.xml	Mamillius	164	Comedy	1610	'The Winter''s Tale (1610)'	male
+WT.xml	Antigonus	857	Comedy	1610	'The Winter''s Tale (1610)'	male
+Rom.xml	Paris	580	Tragedy	1595	Romeo and Juliet (1595)	male
+Rom.xml	Nurse	2377	Tragedy	1595	Romeo and Juliet (1595)	female
+Rom.xml	LadyCapulet	993	Tragedy	1595	Romeo and Juliet (1595)	female
+Rom.xml	Benvolio	1273	Tragedy	1595	Romeo and Juliet (1595)	male
+Rom.xml	Capulet	2287	Tragedy	1595	Romeo and Juliet (1595)	male
+Rom.xml	Tybalt	300	Tragedy	1595	Romeo and Juliet (1595)	male
+Rom.xml	LadyMontague	38	Tragedy	1595	Romeo and Juliet (1595)	female
+Rom.xml	Romeo	5009	Tragedy	1595	Romeo and Juliet (1595)	male
+Rom.xml	Montague	339	Tragedy	1595	Romeo and Juliet (1595)	male
+Rom.xml	Cousin	22	Tragedy	1595	Romeo and Juliet (1595)	male
+Rom.xml	FriarLawrence	2897	Tragedy	1595	Romeo and Juliet (1595)	male
+Rom.xml	FriarJohn	113	Tragedy	1595	Romeo and Juliet (1595)	male
+Rom.xml	Mercutio	2192	Tragedy	1595	Romeo and Juliet (1595)	male
+Rom.xml	PrinceEscalus	633	Tragedy	1595	Romeo and Juliet (1595)	male
+Rom.xml	Apothecary	61	Tragedy	1595	Romeo and Juliet (1595)	male
+Rom.xml	Petruchio	9	Tragedy	1595	Romeo and Juliet (1595)	male
+Rom.xml	Juliet	4535	Tragedy	1595	Romeo and Juliet (1595)	female
+Oth.xml	Roderigo	948	Tragedy	1604	Othello (1604)	male
+Oth.xml	Clown	245	Tragedy	1604	Othello (1604)	male
+Oth.xml	Duke	509	Tragedy	1604	Othello (1604)	male
+Oth.xml	Bianca	298	Tragedy	1604	Othello (1604)	female
+Oth.xml	Iago	8953	Tragedy	1604	Othello (1604)	male
+Oth.xml	Cassio	2181	Tragedy	1604	Othello (1604)	male
+Oth.xml	Brabantio	1102	Tragedy	1604	Othello (1604)	male
+Oth.xml	Emilia	1965	Tragedy	1604	Othello (1604)	female
+Oth.xml	Othello	6715	Tragedy	1604	Othello (1604)	male
+Oth.xml	Gratiano	188	Tragedy	1604	Othello (1604)	male
+Oth.xml	Desdemona	2975	Tragedy	1604	Othello (1604)	female
+Oth.xml	Lodovico	593	Tragedy	1604	Othello (1604)	male
+Oth.xml	Montano	460	Tragedy	1604	Othello (1604)	male
+TNK.xml	Theseus	2616	Comedy	1613	Two Noble Kinsmen (1613)	male
+TNK.xml	Doctor	738	Comedy	1613	Two Noble Kinsmen (1613)	male
+TNK.xml	Jailer	856	Comedy	1613	Two Noble Kinsmen (1613)	male
+TNK.xml	Valerius	82	Comedy	1613	Two Noble Kinsmen (1613)	male
+TNK.xml	Schoolmaster	821	Comedy	1613	Two Noble Kinsmen (1613)	male
+TNK.xml	Woman	77	Comedy	1613	Two Noble Kinsmen (1613)	female
+TNK.xml	Wooer	836	Comedy	1613	Two Noble Kinsmen (1613)	male
+TNK.xml	Taborer	8	Comedy	1613	Two Noble Kinsmen (1613)	male
+TNK.xml	Hippolyta	762	Comedy	1613	Two Noble Kinsmen (1613)	female
+TNK.xml	Daughter	2876	Comedy	1613	Two Noble Kinsmen (1613)	female
+TNK.xml	Palamon	4614	Comedy	1613	Two Noble Kinsmen (1613)	male
+TNK.xml	Brother	85	Comedy	1613	Two Noble Kinsmen (1613)	male
+TNK.xml	Emilia	3000	Comedy	1613	Two Noble Kinsmen (1613)	female
+TNK.xml	Pirithous	964	Comedy	1613	Two Noble Kinsmen (1613)	male
+TNK.xml	Arcite	3984	Comedy	1613	Two Noble Kinsmen (1613)	male
+TGV.xml	Lance	1978	Comedy	1593	Two Gentlemen of Verona (1593)	male
+TGV.xml	Duke	1611	Comedy	1593	Two Gentlemen of Verona (1593)	male
+TGV.xml	Pantino	329	Comedy	1593	Two Gentlemen of Verona (1593)	male
+TGV.xml	Julia	2749	Comedy	1593	Two Gentlemen of Verona (1593)	female
+TGV.xml	Antonio	280	Comedy	1593	Two Gentlemen of Verona (1593)	male
+TGV.xml	Host	179	Comedy	1593	Two Gentlemen of Verona (1593)	male
+TGV.xml	Proteus	3613	Comedy	1593	Two Gentlemen of Verona (1593)	male
+TGV.xml	Eglamour	217	Comedy	1593	Two Gentlemen of Verona (1593)	male
+TGV.xml	Lucetta	631	Comedy	1593	Two Gentlemen of Verona (1593)	female
+TGV.xml	Sylvia	1251	Comedy	1593	Two Gentlemen of Verona (1593)	female
+TGV.xml	Valentine	3032	Comedy	1593	Two Gentlemen of Verona (1593)	male
+TGV.xml	Speed	1608	Comedy	1593	Two Gentlemen of Verona (1593)	male
+TGV.xml	Thurio	438	Comedy	1593	Two Gentlemen of Verona (1593)	male
+Lr.xml	Albany	1160	Tragedy	1605	King Lear (1605)	male
+Lr.xml	Burgundy	77	Tragedy	1605	King Lear (1605)	male
+Lr.xml	France	249	Tragedy	1605	King Lear (1605)	male
+Lr.xml	Lear	5982	Tragedy	1605	King Lear (1605)	male
+Lr.xml	Goneril	1595	Tragedy	1605	King Lear (1605)	female
+Lr.xml	Edmund	2567	Tragedy	1605	King Lear (1605)	male
+Lr.xml	Kent	2841	Tragedy	1605	King Lear (1605)	male
+Lr.xml	Regan	1482	Tragedy	1605	King Lear (1605)	female
+Lr.xml	Fool	1860	Tragedy	1605	King Lear (1605)	male
+Lr.xml	Cornwall	890	Tragedy	1605	King Lear (1605)	male
+Lr.xml	Cordelia	888	Tragedy	1605	King Lear (1605)	female
+Lr.xml	Edgar	3147	Tragedy	1605	King Lear (1605)	male
+Lr.xml	Gloucester	2777	Tragedy	1605	King Lear (1605)	male
+Lr.xml	Curan	83	Tragedy	1605	King Lear (1605)	male
+Lr.xml	OldMan	78	Tragedy	1605	King Lear (1605)	male
+Lr.xml	Oswald	560	Tragedy	1605	King Lear (1605)	male
+1H6.xml	Bastard	236	History	1592	1 Henry VI (1592)	male
+1H6.xml	QueenMargaret	292	History	1592	1 Henry VI (1592)	female
+1H6.xml	Boy	53	History	1592	1 Henry VI (1592)	male
+1H6.xml	Mortimer	669	History	1592	1 Henry VI (1592)	male
+1H6.xml	Burgundy	362	History	1592	1 Henry VI (1592)	male
+1H6.xml	Glansdale	10	History	1592	1 Henry VI (1592)	male
+1H6.xml	Warwick	587	History	1592	1 Henry VI (1592)	male
+1H6.xml	Somerset	548	History	1592	1 Henry VI (1592)	male
+1H6.xml	General	211	History	1592	1 Henry VI (1592)	male
+1H6.xml	Legate	10	History	1592	1 Henry VI (1592)	male
+1H6.xml	Porter	6	History	1592	1 Henry VI (1592)	male
+1H6.xml	MasterGunner	144	History	1592	1 Henry VI (1592)	male
+1H6.xml	Basset	202	History	1592	1 Henry VI (1592)	male
+1H6.xml	Pucelle	2145	History	1592	1 Henry VI (1592)	female
+1H6.xml	Fastolf	66	History	1592	1 Henry VI (1592)	male
+1H6.xml	HenryVI	1473	History	1592	1 Henry VI (1592)	male
+1H6.xml	Vernon	283	History	1592	1 Henry VI (1592)	male
+1H6.xml	York	1565	History	1592	1 Henry VI (1592)	male
+1H6.xml	Exeter	488	History	1592	1 Henry VI (1592)	male
+1H6.xml	Bedford	650	History	1592	1 Henry VI (1592)	male
+1H6.xml	Shepherd	207	History	1592	1 Henry VI (1592)	male
+1H6.xml	Gargrave	20	History	1592	1 Henry VI (1592)	male
+1H6.xml	CardinalBeaufort	825	History	1592	1 Henry VI (1592)	male
+1H6.xml	Lucy	626	History	1592	1 Henry VI (1592)	male
+1H6.xml	Countess	393	History	1592	1 Henry VI (1592)	female
+1H6.xml	Gloucester	1526	History	1592	1 Henry VI (1592)	male
+1H6.xml	Woodville	40	History	1592	1 Henry VI (1592)	male
+1H6.xml	Charles	1199	History	1592	1 Henry VI (1592)	male
+1H6.xml	Reignier	513	History	1592	1 Henry VI (1592)	male
+1H6.xml	Suffolk	1399	History	1592	1 Henry VI (1592)	male
+1H6.xml	Talbot	3493	History	1592	1 Henry VI (1592)	male
+1H6.xml	Alanson	399	History	1592	1 Henry VI (1592)	male
+1H6.xml	Salisbury	117	History	1592	1 Henry VI (1592)	male
+1H6.xml	Lawyer	31	History	1592	1 Henry VI (1592)	male
+1H6.xml	JohnTalbot	426	History	1592	1 Henry VI (1592)	male
+1H6.xml	Mayor	186	History	1592	1 Henry VI (1592)	male
+Jn.xml	Bastard	4362	History	1596	King John (1596)	male
+Jn.xml	PrinceHenry	243	History	1596	King John (1596)	male
+Jn.xml	Melun	311	History	1596	King John (1596)	male
+Jn.xml	Bigot	72	History	1596	King John (1596)	male
+Jn.xml	Dauphin	1268	History	1596	King John (1596)	male
+Jn.xml	KingPhilip	1617	History	1596	King John (1596)	male
+Jn.xml	Gurney	5	History	1596	King John (1596)	male
+Jn.xml	Chatillion	303	History	1596	King John (1596)	male
+Jn.xml	KingJohn	3667	History	1596	King John (1596)	male
+Jn.xml	QueenEleanor	499	History	1596	King John (1596)	female
+Jn.xml	Pembroke	654	History	1596	King John (1596)	male
+Jn.xml	Arthur	1017	History	1596	King John (1596)	male
+Jn.xml	RobertFaulconbridge	187	History	1596	King John (1596)	male
+Jn.xml	Constance	2196	History	1596	King John (1596)	female
+Jn.xml	Essex	26	History	1596	King John (1596)	male
+Jn.xml	Blanche	349	History	1596	King John (1596)	female
+Jn.xml	Austria	277	History	1596	King John (1596)	male
+Jn.xml	Salisbury	1292	History	1596	King John (1596)	male
+Jn.xml	Hubert	1131	History	1596	King John (1596)	male
+Jn.xml	Pandulph	1295	History	1596	King John (1596)	male
+Jn.xml	LadyFaulconbridge	132	History	1596	King John (1596)	female
+Jn.xml	Peter	9	History	1596	King John (1596)	male
+AYL.xml	OliverMartext	56	Comedy	1599	As You Like It (1599)	male
+AYL.xml	Phoebe	746	Comedy	1599	As You Like It (1599)	female
+AYL.xml	Oliver	1240	Comedy	1599	As You Like It (1599)	male
+AYL.xml	SecondBrother	132	Comedy	1599	As You Like It (1599)	male
+AYL.xml	Audrey	166	Comedy	1599	As You Like It (1599)	female
+AYL.xml	Hymen	186	Comedy	1599	As You Like It (1599)	male
+AYL.xml	DukeSenior	922	Comedy	1599	As You Like It (1599)	male
+AYL.xml	Charles	383	Comedy	1599	As You Like It (1599)	male
+AYL.xml	Orlando	2565	Comedy	1599	As You Like It (1599)	male
+AYL.xml	Corin	585	Comedy	1599	As You Like It (1599)	male
+AYL.xml	Rosalind	6274	Comedy	1599	As You Like It (1599)	female
+AYL.xml	DukeFrederick	615	Comedy	1599	As You Like It (1599)	male
+AYL.xml	William	60	Comedy	1599	As You Like It (1599)	male
+AYL.xml	Adam	547	Comedy	1599	As You Like It (1599)	male
+AYL.xml	Celia	2312	Comedy	1599	As You Like It (1599)	female
+AYL.xml	Dennis	19	Comedy	1599	As You Like It (1599)	male
+AYL.xml	Silvius	587	Comedy	1599	As You Like It (1599)	male
+AYL.xml	Touchstone	2505	Comedy	1599	As You Like It (1599)	male
+AYL.xml	Jaques	1871	Comedy	1599	As You Like It (1599)	male
+Tit.xml	Saturninus	1729	Tragedy	1594	Titus Andronicus (1594)	male
+Tit.xml	Aaron	2976	Tragedy	1594	Titus Andronicus (1594)	male
+Tit.xml	Publius	128	Tragedy	1594	Titus Andronicus (1594)	male
+Tit.xml	Messenger	59	Tragedy	1594	Titus Andronicus (1594)	male
+Tit.xml	Nurse	146	Tragedy	1594	Titus Andronicus (1594)	female
+Tit.xml	YoungLucius	387	Tragedy	1594	Titus Andronicus (1594)	male
+Tit.xml	Aemilius	138	Tragedy	1594	Titus Andronicus (1594)	male
+Tit.xml	Chiron	458	Tragedy	1594	Titus Andronicus (1594)	male
+Tit.xml	Martius	314	Tragedy	1594	Titus Andronicus (1594)	male
+Tit.xml	Demetrius	852	Tragedy	1594	Titus Andronicus (1594)	male
+Tit.xml	Mutius	40	Tragedy	1594	Titus Andronicus (1594)	male
+Tit.xml	Tamora	2107	Tragedy	1594	Titus Andronicus (1594)	female
+Tit.xml	Bassianus	506	Tragedy	1594	Titus Andronicus (1594)	male
+Tit.xml	Marcus	2668	Tragedy	1594	Titus Andronicus (1594)	male
+Tit.xml	Titus	6239	Tragedy	1594	Titus Andronicus (1594)	male
+Tit.xml	Lucius	1595	Tragedy	1594	Titus Andronicus (1594)	male
+Tit.xml	Lavinia	478	Tragedy	1594	Titus Andronicus (1594)	female
+Tit.xml	Quintus	262	Tragedy	1594	Titus Andronicus (1594)	male
+Tit.xml	Captain	109	Tragedy	1594	Titus Andronicus (1594)	male
+Tit.xml	CountryFellow	207	Tragedy	1594	Titus Andronicus (1594)	male
+Ham.xml	Gertrude	1156	Tragedy	1601	Hamlet (1601)	female
+Ham.xml	Doctor	92	Tragedy	1601	Hamlet (1601)	male
+Ham.xml	Laertes	1549	Tragedy	1601	Hamlet (1601)	male
+Ham.xml	Gravedigger	792	Tragedy	1601	Hamlet (1601)	male
+Ham.xml	Marcellus	523	Tragedy	1601	Hamlet (1601)	male
+Ham.xml	Francisco	65	Tragedy	1601	Hamlet (1601)	male
+Ham.xml	GravediggersCompanion	115	Tragedy	1601	Hamlet (1601)	male
+Ham.xml	Ophelia	1269	Tragedy	1601	Hamlet (1601)	female
+Ham.xml	Voltemand	166	Tragedy	1601	Hamlet (1601)	male
+Ham.xml	Polonius	2809	Tragedy	1601	Hamlet (1601)	male
+Ham.xml	Ghost	703	Tragedy	1601	Hamlet (1601)	male
+Ham.xml	Barnardo	257	Tragedy	1601	Hamlet (1601)	male
+Ham.xml	Horatio	2275	Tragedy	1601	Hamlet (1601)	male
+Ham.xml	Fortinbras	217	Tragedy	1601	Hamlet (1601)	male
+Ham.xml	Guildenstern	353	Tragedy	1601	Hamlet (1601)	male
+Ham.xml	Reynaldo	78	Tragedy	1601	Hamlet (1601)	male
+Ham.xml	Claudius	4369	Tragedy	1601	Hamlet (1601)	male
+Ham.xml	Rosencrantz	782	Tragedy	1601	Hamlet (1601)	male
+Ham.xml	Hamlet	12491	Tragedy	1601	Hamlet (1601)	male
+Ham.xml	Cornelius	12	Tragedy	1601	Hamlet (1601)	male
+Ham.xml	Osric	387	Tragedy	1601	Hamlet (1601)	male
+MM.xml	Angelo	2533	Comedy	1604	Measure for Measure (1604)	male
+MM.xml	Justice	13	Comedy	1604	Measure for Measure (1604)	male
+MM.xml	Messenger	46	Comedy	1604	Measure for Measure (1604)	male
+MM.xml	FriarPeter	315	Comedy	1604	Measure for Measure (1604)	male
+MM.xml	Lucio	2515	Comedy	1604	Measure for Measure (1604)	male
+MM.xml	Mariana	533	Comedy	1604	Measure for Measure (1604)	female
+MM.xml	Bawd	245	Comedy	1604	Measure for Measure (1604)	female
+MM.xml	Escalus	1578	Comedy	1604	Measure for Measure (1604)	male
+MM.xml	Pompey	1395	Comedy	1604	Measure for Measure (1604)	male
+MM.xml	FriarThomas	41	Comedy	1604	Measure for Measure (1604)	male
+MM.xml	Boy	46	Comedy	1604	Measure for Measure (1604)	male
+MM.xml	Isabella	3218	Comedy	1604	Measure for Measure (1604)	female
+MM.xml	Elbow	644	Comedy	1604	Measure for Measure (1604)	male
+MM.xml	Duke	7216	Comedy	1604	Measure for Measure (1604)	male
+MM.xml	Barnardine	123	Comedy	1604	Measure for Measure (1604)	male
+MM.xml	Froth	66	Comedy	1604	Measure for Measure (1604)	male
+MM.xml	Claudio	856	Comedy	1604	Measure for Measure (1604)	male
+MM.xml	Nun	78	Comedy	1604	Measure for Measure (1604)	female
+MM.xml	Provost	1257	Comedy	1604	Measure for Measure (1604)	male
+MM.xml	Abhorson	163	Comedy	1604	Measure for Measure (1604)	male
+MM.xml	Juliet	70	Comedy	1604	Measure for Measure (1604)	female
+3H6.xml	RichardIII	3534	History	1591	3 Henry VI (1591)	male
+3H6.xml	Father	227	History	1591	3 Henry VI (1591)	male
+3H6.xml	Montgomery	140	History	1591	3 Henry VI (1591)	male
+3H6.xml	Tutor	32	History	1591	3 Henry VI (1591)	male
+3H6.xml	JohnMortimer	12	History	1591	3 Henry VI (1591)	male
+3H6.xml	QueenMargaret	2486	History	1591	3 Henry VI (1591)	female
+3H6.xml	Warwick	3751	History	1591	3 Henry VI (1591)	male
+3H6.xml	Somerset	292	History	1591	3 Henry VI (1591)	male
+3H6.xml	Rivers	59	History	1591	3 Henry VI (1591)	male
+3H6.xml	Clarence	973	History	1591	3 Henry VI (1591)	male
+3H6.xml	Lieutenant	22	History	1591	3 Henry VI (1591)	male
+3H6.xml	Huntsman	20	History	1591	3 Henry VI (1591)	male
+3H6.xml	HenryVI	3175	History	1591	3 Henry VI (1591)	male
+3H6.xml	Montague	162	History	1591	3 Henry VI (1591)	male
+3H6.xml	Westmorland	91	History	1591	3 Henry VI (1591)	male
+3H6.xml	York	1456	History	1591	3 Henry VI (1591)	male
+3H6.xml	Oxford	347	History	1591	3 Henry VI (1591)	male
+3H6.xml	PrinceEdward	416	History	1591	3 Henry VI (1591)	male
+3H6.xml	Hastings	191	History	1591	3 Henry VI (1591)	male
+3H6.xml	MayorOfYork	57	History	1591	3 Henry VI (1591)	male
+3H6.xml	LadyBona	82	History	1591	3 Henry VI (1591)	female
+3H6.xml	Norfolk	29	History	1591	3 Henry VI (1591)	male
+3H6.xml	Northumberland	268	History	1591	3 Henry VI (1591)	male
+3H6.xml	QueenElizabeth	681	History	1591	3 Henry VI (1591)	female
+3H6.xml	Rutland	214	History	1591	3 Henry VI (1591)	male
+3H6.xml	Exeter	181	History	1591	3 Henry VI (1591)	male
+3H6.xml	Somerville	66	History	1591	3 Henry VI (1591)	male
+3H6.xml	KingLewis	577	History	1591	3 Henry VI (1591)	male
+3H6.xml	Son	201	History	1591	3 Henry VI (1591)	male
+3H6.xml	EdwardIV	4002	History	1591	3 Henry VI (1591)	male
+3H6.xml	Clifford	1194	History	1591	3 Henry VI (1591)	male
+Wiv.xml	HughEvans	2188	Comedy	1600	The Merry Wives of Windsor (1600)	male
+Wiv.xml	MasterFord	2833	Comedy	1600	The Merry Wives of Windsor (1600)	male
+Wiv.xml	Robert	40	Comedy	1600	The Merry Wives of Windsor (1600)	male
+Wiv.xml	Nym	267	Comedy	1600	The Merry Wives of Windsor (1600)	male
+Wiv.xml	John	17	Comedy	1600	The Merry Wives of Windsor (1600)	male
+Wiv.xml	Pistol	562	Comedy	1600	The Merry Wives of Windsor (1600)	male
+Wiv.xml	Shallow	1022	Comedy	1600	The Merry Wives of Windsor (1600)	male
+Wiv.xml	Falstaff	3946	Comedy	1600	The Merry Wives of Windsor (1600)	male
+Wiv.xml	Host	983	Comedy	1600	The Merry Wives of Windsor (1600)	male
+Wiv.xml	WilliamPage	48	Comedy	1600	The Merry Wives of Windsor (1600)	male
+Wiv.xml	Rugby	67	Comedy	1600	The Merry Wives of Windsor (1600)	male
+Wiv.xml	Bardolph	194	Comedy	1600	The Merry Wives of Windsor (1600)	male
+Wiv.xml	Slender	1282	Comedy	1600	The Merry Wives of Windsor (1600)	male
+Wiv.xml	MistressPage	2891	Comedy	1600	The Merry Wives of Windsor (1600)	female
+Wiv.xml	Fenton	807	Comedy	1600	The Merry Wives of Windsor (1600)	male
+Wiv.xml	MistressQuickly	2510	Comedy	1600	The Merry Wives of Windsor (1600)	female
+Wiv.xml	Robin	107	Comedy	1600	The Merry Wives of Windsor (1600)	male
+Wiv.xml	AnnePage	217	Comedy	1600	The Merry Wives of Windsor (1600)	female
+Wiv.xml	MistressFord	1578	Comedy	1600	The Merry Wives of Windsor (1600)	female
+Wiv.xml	Simple	364	Comedy	1600	The Merry Wives of Windsor (1600)	male
+Wiv.xml	MasterPage	1266	Comedy	1600	The Merry Wives of Windsor (1600)	male
+Wiv.xml	DoctorCaius	992	Comedy	1600	The Merry Wives of Windsor (1600)	male
+AWW.xml	King	3002	Comedy	1602	'All''s Well that Ends Well (1602)'	male
+AWW.xml	Fool	1768	Comedy	1602	'All''s Well that Ends Well (1602)'	male
+AWW.xml	Mariana	197	Comedy	1602	'All''s Well that Ends Well (1602)'	female
+AWW.xml	Bertram	2193	Comedy	1602	'All''s Well that Ends Well (1602)'	male
+AWW.xml	Diana	1111	Comedy	1602	'All''s Well that Ends Well (1602)'	female
+AWW.xml	Steward	354	Comedy	1602	'All''s Well that Ends Well (1602)'	male
+AWW.xml	Parolles	3241	Comedy	1602	'All''s Well that Ends Well (1602)'	male
+AWW.xml	Lafew	2371	Comedy	1602	'All''s Well that Ends Well (1602)'	male
+AWW.xml	Helen	3860	Comedy	1602	'All''s Well that Ends Well (1602)'	female
+AWW.xml	Countess	2349	Comedy	1602	'All''s Well that Ends Well (1602)'	female
+AWW.xml	Page	8	Comedy	1602	'All''s Well that Ends Well (1602)'	male
+AWW.xml	Duke	144	Comedy	1602	'All''s Well that Ends Well (1602)'	male
+AWW.xml	Widow	484	Comedy	1602	'All''s Well that Ends Well (1602)'	female
+1H4.xml	Archbishop	286	History	1597	1 Henry IV (1597)	male
+1H4.xml	Peto	117	History	1597	1 Henry IV (1597)	male
+1H4.xml	Mortimer	494	History	1597	1 Henry IV (1597)	male
+1H4.xml	Douglas	390	History	1597	1 Henry IV (1597)	male
+1H4.xml	Blunt	335	History	1597	1 Henry IV (1597)	male
+1H4.xml	LadyPercy	462	History	1597	1 Henry IV (1597)	female
+1H4.xml	HenryV	4709	History	1597	1 Henry IV (1597)	male
+1H4.xml	HenryIV	2639	History	1597	1 Henry IV (1597)	male
+1H4.xml	Falstaff	5925	History	1597	1 Henry IV (1597)	male
+1H4.xml	Vernon	482	History	1597	1 Henry IV (1597)	male
+1H4.xml	SirMichael	61	History	1597	1 Henry IV (1597)	male
+1H4.xml	Bedford	73	History	1597	1 Henry IV (1597)	male
+1H4.xml	Northumberland	187	History	1597	1 Henry IV (1597)	male
+1H4.xml	Bardolph	226	History	1597	1 Henry IV (1597)	male
+1H4.xml	Vintner	36	History	1597	1 Henry IV (1597)	male
+1H4.xml	Westmoreland	320	History	1597	1 Henry IV (1597)	male
+1H4.xml	MistressQuickly	439	History	1597	1 Henry IV (1597)	female
+1H4.xml	Hotspur	4532	History	1597	1 Henry IV (1597)	male
+1H4.xml	Poins	641	History	1597	1 Henry IV (1597)	male
+1H4.xml	Glendower	644	History	1597	1 Henry IV (1597)	male
+1H4.xml	Worcester	1469	History	1597	1 Henry IV (1597)	male
+1H4.xml	Gadshill	375	History	1597	1 Henry IV (1597)	male
+H5.xml	Orleans	350	History	1599	Henry V (1599)	male
+H5.xml	QueenOfFrance	214	History	1599	Henry V (1599)	female
+H5.xml	Bedford	87	History	1599	Henry V (1599)	male
+H5.xml	Warwick	8	History	1599	Henry V (1599)	male
+H5.xml	Scroop	100	History	1599	Henry V (1599)	male
+H5.xml	Grandpre	138	History	1599	Henry V (1599)	male
+H5.xml	Burgundy	521	History	1599	Henry V (1599)	male
+H5.xml	Nym	429	History	1599	Henry V (1599)	male
+H5.xml	BishopOfCanterbury	1706	History	1599	Henry V (1599)	male
+H5.xml	Bourbon	91	History	1599	Henry V (1599)	male
+H5.xml	Pistol	1261	History	1599	Henry V (1599)	male
+H5.xml	Dauphin	951	History	1599	Henry V (1599)	male
+H5.xml	Governor	57	History	1599	Henry V (1599)	male
+H5.xml	HenryV	8885	History	1599	Henry V (1599)	male
+H5.xml	Katherine	498	History	1599	Henry V (1599)	female
+H5.xml	York	16	History	1599	Henry V (1599)	male
+H5.xml	Fluellen	2644	History	1599	Henry V (1599)	male
+H5.xml	Montjoy	412	History	1599	Henry V (1599)	male
+H5.xml	Gower	554	History	1599	Henry V (1599)	male
+H5.xml	Alice	187	History	1599	Henry V (1599)	female
+H5.xml	Rambures	73	History	1599	Henry V (1599)	male
+H5.xml	Boy	674	History	1599	Henry V (1599)	male
+H5.xml	Bardolph	248	History	1599	Henry V (1599)	male
+H5.xml	Gloucester	33	History	1599	Henry V (1599)	male
+H5.xml	Constable	980	History	1599	Henry V (1599)	male
+H5.xml	Grey	92	History	1599	Henry V (1599)	male
+H5.xml	Jamy	105	History	1599	Henry V (1599)	male
+H5.xml	Chorus	1746	History	1599	Henry V (1599)	male
+H5.xml	KingOfFrance	780	History	1599	Henry V (1599)	male
+H5.xml	Westmoreland	153	History	1599	Henry V (1599)	male
+H5.xml	MacMorris	209	History	1599	Henry V (1599)	male
+H5.xml	MistressQuickly	403	History	1599	Henry V (1599)	female
+H5.xml	Exeter	1007	History	1599	Henry V (1599)	male
+H5.xml	Cambridge	112	History	1599	Henry V (1599)	male
+H5.xml	Erpingham	65	History	1599	Henry V (1599)	male
+H5.xml	Brittany	67	History	1599	Henry V (1599)	male
+H5.xml	BishopOfEly	301	History	1599	Henry V (1599)	male
+H5.xml	Salisbury	77	History	1599	Henry V (1599)	male
+MND.xml	Snout	181	Comedy	1595	'A Midsummer Night''s Dream (1595)'	male
+MND.xml	Theseus	1863	Comedy	1595	'A Midsummer Night''s Dream (1595)'	male
+MND.xml	Flute	422	Comedy	1595	'A Midsummer Night''s Dream (1595)'	male
+MND.xml	Bottom	2193	Comedy	1595	'A Midsummer Night''s Dream (1595)'	male
+MND.xml	RobinGoodfellow	1545	Comedy	1595	'A Midsummer Night''s Dream (1595)'	male
+MND.xml	Hermia	1381	Comedy	1595	'A Midsummer Night''s Dream (1595)'	female
+MND.xml	Demetrius	1160	Comedy	1595	'A Midsummer Night''s Dream (1595)'	male
+MND.xml	Titania	1165	Comedy	1595	'A Midsummer Night''s Dream (1595)'	female
+MND.xml	Egeus	309	Comedy	1595	'A Midsummer Night''s Dream (1595)'	male
+MND.xml	Helena	1893	Comedy	1595	'A Midsummer Night''s Dream (1595)'	female
+MND.xml	Lysander	1472	Comedy	1595	'A Midsummer Night''s Dream (1595)'	male
+MND.xml	Snug	143	Comedy	1595	'A Midsummer Night''s Dream (1595)'	male
+MND.xml	Hippolyta	275	Comedy	1595	'A Midsummer Night''s Dream (1595)'	female
+MND.xml	Quince	1026	Comedy	1595	'A Midsummer Night''s Dream (1595)'	male
+MND.xml	Philostrate	195	Comedy	1595	'A Midsummer Night''s Dream (1595)'	male
+MND.xml	Oberon	1700	Comedy	1595	'A Midsummer Night''s Dream (1595)'	male
+MND.xml	Starveling	108	Comedy	1595	'A Midsummer Night''s Dream (1595)'	male
+R2.xml	Jailer	52	History	1595	Richard II (1595)	male
+R2.xml	Scroop	291	History	1595	Richard II (1595)	male
+R2.xml	LordMarshal	244	History	1595	Richard II (1595)	male
+R2.xml	Aumerle	796	History	1595	Richard II (1595)	male
+R2.xml	Gardener	450	History	1595	Richard II (1595)	male
+R2.xml	Ross	191	History	1595	Richard II (1595)	male
+R2.xml	Mowbray	1110	History	1595	Richard II (1595)	male
+R2.xml	HenryIV	3419	History	1595	Richard II (1595)	male
+R2.xml	Willoughby	124	History	1595	Richard II (1595)	male
+R2.xml	York	2372	History	1595	Richard II (1595)	male
+R2.xml	Berkeley	75	History	1595	Richard II (1595)	male
+R2.xml	Bushy	304	History	1595	Richard II (1595)	male
+R2.xml	Groom	97	History	1595	Richard II (1595)	male
+R2.xml	AbbotOfWestminster	85	History	1595	Richard II (1595)	male
+R2.xml	Northumberland	1159	History	1595	Richard II (1595)	male
+R2.xml	Gaunt	1562	History	1595	Richard II (1595)	male
+R2.xml	Green	272	History	1595	Richard II (1595)	male
+R2.xml	Exton	206	History	1595	Richard II (1595)	male
+R2.xml	Hotspur	375	History	1595	Richard II (1595)	male
+R2.xml	RichardII	6401	History	1595	Richard II (1595)	male
+R2.xml	Surrey	83	History	1595	Richard II (1595)	male
+R2.xml	Queen	966	History	1595	Richard II (1595)	female
+R2.xml	Fitzwater	237	History	1595	Richard II (1595)	male
+R2.xml	Salisbury	180	History	1595	Richard II (1595)	male
+R2.xml	DuchessOfYork	792	History	1595	Richard II (1595)	female
+R2.xml	Bagot	207	History	1595	Richard II (1595)	male
+R2.xml	BishopOfCarlisle	491	History	1595	Richard II (1595)	male
+R2.xml	DuchessOfGloucester	473	History	1595	Richard II (1595)	female
+R2.xml	WelshCaptain	127	History	1595	Richard II (1595)	male
+JC.xml	Ligarius	122	Tragedy	1599	Julius Caesar (1599)	male
+JC.xml	Publius	8	Tragedy	1599	Julius Caesar (1599)	male
+JC.xml	Flavius	246	Tragedy	1599	Julius Caesar (1599)	male
+JC.xml	Soothsayer	142	Tragedy	1599	Julius Caesar (1599)	male
+JC.xml	Portia	776	Tragedy	1599	Julius Caesar (1599)	female
+JC.xml	Casca	1132	Tragedy	1599	Julius Caesar (1599)	male
+JC.xml	Artemidorus	157	Tragedy	1599	Julius Caesar (1599)	male
+JC.xml	Decius	336	Tragedy	1599	Julius Caesar (1599)	male
+JC.xml	Brutus	5849	Tragedy	1599	Julius Caesar (1599)	male
+JC.xml	Lepidus	25	Tragedy	1599	Julius Caesar (1599)	male
+JC.xml	Metellus	127	Tragedy	1599	Julius Caesar (1599)	male
+JC.xml	Cicero	66	Tragedy	1599	Julius Caesar (1599)	male
+JC.xml	Cassius	3971	Tragedy	1599	Julius Caesar (1599)	male
+JC.xml	Lucius	247	Tragedy	1599	Julius Caesar (1599)	male
+JC.xml	Pindarus	133	Tragedy	1599	Julius Caesar (1599)	male
+JC.xml	Popilius	17	Tragedy	1599	Julius Caesar (1599)	male
+JC.xml	Antony	2648	Tragedy	1599	Julius Caesar (1599)	male
+JC.xml	Calphurnia	211	Tragedy	1599	Julius Caesar (1599)	female
+JC.xml	Marullus	236	Tragedy	1599	Julius Caesar (1599)	male
+JC.xml	Cinna	142	Tragedy	1599	Julius Caesar (1599)	male
+JC.xml	CinnaPoet	112	Tragedy	1599	Julius Caesar (1599)	male
+JC.xml	Trebonius	67	Tragedy	1599	Julius Caesar (1599)	male
+JC.xml	Caesar	1232	Tragedy	1599	Julius Caesar (1599)	male
+JC.xml	Octavius	397	Tragedy	1599	Julius Caesar (1599)	male
+2H4.xml	Clarence	223	History	1597	2 Henry IV (1597)	male
+2H4.xml	Archbishop	1132	History	1597	2 Henry IV (1597)	male
+2H4.xml	Peto	45	History	1597	2 Henry IV (1597)	male
+2H4.xml	LadyNorthumberland	42	History	1597	2 Henry IV (1597)	female
+2H4.xml	Warwick	605	History	1597	2 Henry IV (1597)	male
+2H4.xml	ChiefJustice	1292	History	1597	2 Henry IV (1597)	male
+2H4.xml	Pistol	628	History	1597	2 Henry IV (1597)	male
+2H4.xml	LadyPercy	376	History	1597	2 Henry IV (1597)	female
+2H4.xml	DollTearsheet	682	History	1597	2 Henry IV (1597)	female
+2H4.xml	HenryV	2628	History	1597	2 Henry IV (1597)	male
+2H4.xml	Mowbray	463	History	1597	2 Henry IV (1597)	male
+2H4.xml	Shallow	1692	History	1597	2 Henry IV (1597)	male
+2H4.xml	HenryIV	2408	History	1597	2 Henry IV (1597)	male
+2H4.xml	Davy	302	History	1597	2 Henry IV (1597)	male
+2H4.xml	Falstaff	5882	History	1597	2 Henry IV (1597)	male
+2H4.xml	Shadow	10	History	1597	2 Henry IV (1597)	male
+2H4.xml	Gloucester	159	History	1597	2 Henry IV (1597)	male
+2H4.xml	Feeble	109	History	1597	2 Henry IV (1597)	male
+2H4.xml	Bedford	946	History	1597	2 Henry IV (1597)	male
+2H4.xml	Travers	113	History	1597	2 Henry IV (1597)	male
+2H4.xml	Bardolph	361	History	1597	2 Henry IV (1597)	male
+2H4.xml	Northumberland	870	History	1597	2 Henry IV (1597)	male
+2H4.xml	LordBardolph	688	History	1597	2 Henry IV (1597)	male
+2H4.xml	Westmoreland	890	History	1597	2 Henry IV (1597)	male
+2H4.xml	MistressQuickly	1524	History	1597	2 Henry IV (1597)	female
+2H4.xml	Harcourt	70	History	1597	2 Henry IV (1597)	male
+2H4.xml	Silence	295	History	1597	2 Henry IV (1597)	male
+2H4.xml	Hastings	461	History	1597	2 Henry IV (1597)	male
+2H4.xml	Poins	520	History	1597	2 Henry IV (1597)	male
+2H4.xml	Mouldy	105	History	1597	2 Henry IV (1597)	male
+2H4.xml	Bullcalf	120	History	1597	2 Henry IV (1597)	male
+2H4.xml	Colevile	69	History	1597	2 Henry IV (1597)	male
+2H4.xml	Morton	641	History	1597	2 Henry IV (1597)	male
+2H4.xml	Wart	8	History	1597	2 Henry IV (1597)	male
+Cor.xml	Valeria	399	Tragedy	1608	Coriolanus (1608)	female
+Cor.xml	Lartius	501	Tragedy	1608	Coriolanus (1608)	male
+Cor.xml	Nicanor	256	Tragedy	1608	Coriolanus (1608)	male
+Cor.xml	Coriolanus	6978	Tragedy	1608	Coriolanus (1608)	male
+Cor.xml	Menenius	4575	Tragedy	1608	Coriolanus (1608)	male
+Cor.xml	Virgilia	269	Tragedy	1608	Coriolanus (1608)	female
+Cor.xml	YoungMartius	19	Tragedy	1608	Coriolanus (1608)	male
+Cor.xml	Herald	42	Tragedy	1608	Coriolanus (1608)	male
+Cor.xml	Adrian	169	Tragedy	1608	Coriolanus (1608)	male
+Cor.xml	Gentlewoman	10	Tragedy	1608	Coriolanus (1608)	female
+Cor.xml	Volumnia	2561	Tragedy	1608	Coriolanus (1608)	female
+Cor.xml	Cominius	2101	Tragedy	1608	Coriolanus (1608)	male
+Cor.xml	Aufidius	2214	Tragedy	1608	Coriolanus (1608)	male
+Shr.xml	Lucentio	1553	Comedy	1594	The Taming of the Shrew (1594)	male
+Shr.xml	Lord	1141	Comedy	1594	The Taming of the Shrew (1594)	male
+Shr.xml	Merchant	425	Comedy	1594	The Taming of the Shrew (1594)	male
+Shr.xml	Grumio	1559	Comedy	1594	The Taming of the Shrew (1594)	male
+Shr.xml	Curtis	197	Comedy	1594	The Taming of the Shrew (1594)	male
+Shr.xml	Hostess	31	Comedy	1594	The Taming of the Shrew (1594)	female
+Shr.xml	Bianca	592	Comedy	1594	The Taming of the Shrew (1594)	female
+Shr.xml	Tailor	131	Comedy	1594	The Taming of the Shrew (1594)	male
+Shr.xml	Katherine	1875	Comedy	1594	The Taming of the Shrew (1594)	female
+Shr.xml	Widow	84	Comedy	1594	The Taming of the Shrew (1594)	female
+Shr.xml	Sly	598	Comedy	1594	The Taming of the Shrew (1594)	male
+Shr.xml	Gremio	1448	Comedy	1594	The Taming of the Shrew (1594)	male
+Shr.xml	Vincentio	383	Comedy	1594	The Taming of the Shrew (1594)	male
+Shr.xml	Page	146	Comedy	1594	The Taming of the Shrew (1594)	male
+Shr.xml	Tranio	2564	Comedy	1594	The Taming of the Shrew (1594)	male
+Shr.xml	Hortensio	1797	Comedy	1594	The Taming of the Shrew (1594)	male
+Shr.xml	Baptista	1473	Comedy	1594	The Taming of the Shrew (1594)	male
+Shr.xml	Biondello	885	Comedy	1594	The Taming of the Shrew (1594)	male
+Shr.xml	Haberdasher	9	Comedy	1594	The Taming of the Shrew (1594)	male
+Shr.xml	Petruchio	4992	Comedy	1594	The Taming of the Shrew (1594)	male
+Tim.xml	Jeweler	86	Tragedy	1607	Timon of Athens (1607)	male
+Tim.xml	Flavius	1660	Tragedy	1607	Timon of Athens (1607)	male
+Tim.xml	Poet	807	Tragedy	1607	Timon of Athens (1607)	male
+Tim.xml	Phrynia	40	Tragedy	1607	Timon of Athens (1607)	female
+Tim.xml	Merchant	79	Tragedy	1607	Timon of Athens (1607)	male
+Tim.xml	Timandra	53	Tragedy	1607	Timon of Athens (1607)	female
+Tim.xml	Timon	6817	Tragedy	1607	Timon of Athens (1607)	male
+Tim.xml	Apemantus	1940	Tragedy	1607	Timon of Athens (1607)	male
+Tim.xml	Alcibiades	1272	Tragedy	1607	Timon of Athens (1607)	male
+Tim.xml	Fool	195	Tragedy	1607	Timon of Athens (1607)	male
+Tim.xml	OldMan	227	Tragedy	1607	Timon of Athens (1607)	male
+Tim.xml	Painter	552	Tragedy	1607	Timon of Athens (1607)	male
+LLL.xml	King	2574	Comedy	1591	'Love''s Labour Lost (1591)'	male
+LLL.xml	Marcade	33	Comedy	1591	'Love''s Labour Lost (1591)'	male
+LLL.xml	Boy	1219	Comedy	1591	'Love''s Labour Lost (1591)'	male
+LLL.xml	Holofernes	1423	Comedy	1591	'Love''s Labour Lost (1591)'	male
+LLL.xml	Forester	50	Comedy	1591	'Love''s Labour Lost (1591)'	male
+LLL.xml	Princess	2392	Comedy	1591	'Love''s Labour Lost (1591)'	female
+LLL.xml	Jaquenetta	126	Comedy	1591	'Love''s Labour Lost (1591)'	female
+LLL.xml	Nathaniel	545	Comedy	1591	'Love''s Labour Lost (1591)'	male
+LLL.xml	Rosaline	1431	Comedy	1591	'Love''s Labour Lost (1591)'	female
+LLL.xml	Katherine	432	Comedy	1591	'Love''s Labour Lost (1591)'	female
+LLL.xml	Armado	1921	Comedy	1591	'Love''s Labour Lost (1591)'	male
+LLL.xml	Costard	1718	Comedy	1591	'Love''s Labour Lost (1591)'	male
+LLL.xml	Dumaine	625	Comedy	1591	'Love''s Labour Lost (1591)'	male
+LLL.xml	Berowne	4896	Comedy	1591	'Love''s Labour Lost (1591)'	male
+LLL.xml	Maria	328	Comedy	1591	'Love''s Labour Lost (1591)'	female
+LLL.xml	Boyet	1919	Comedy	1591	'Love''s Labour Lost (1591)'	male
+LLL.xml	Dull	267	Comedy	1591	'Love''s Labour Lost (1591)'	male
+LLL.xml	Longaville	599	Comedy	1591	'Love''s Labour Lost (1591)'	male
+Err.xml	Merchant1	125	Comedy	1592	The Comedy of Errors (1592)	male
+Err.xml	Duke	767	Comedy	1592	The Comedy of Errors (1592)	male
+Err.xml	Angelo	718	Comedy	1592	The Comedy of Errors (1592)	male
+Err.xml	Egeon	1137	Comedy	1592	The Comedy of Errors (1592)	male
+Err.xml	DromioOfEphesus	1584	Comedy	1592	The Comedy of Errors (1592)	male
+Err.xml	DromioOfSyracuse	2429	Comedy	1592	The Comedy of Errors (1592)	male
+Err.xml	Courtesan	323	Comedy	1592	The Comedy of Errors (1592)	female
+Err.xml	Pinch	116	Comedy	1592	The Comedy of Errors (1592)	male
+Err.xml	AntipholusOfSyracuse	2493	Comedy	1592	The Comedy of Errors (1592)	male
+Err.xml	Luce	81	Comedy	1592	The Comedy of Errors (1592)	female
+Err.xml	Merchant2	321	Comedy	1592	The Comedy of Errors (1592)	male
+Err.xml	Messenger	134	Comedy	1592	The Comedy of Errors (1592)	male
+Err.xml	Adriana	2256	Comedy	1592	The Comedy of Errors (1592)	female
+Err.xml	Luciana	865	Comedy	1592	The Comedy of Errors (1592)	female
+Err.xml	Abbess	575	Comedy	1592	The Comedy of Errors (1592)	female
+Err.xml	AntipholusOfEphesus	2061	Comedy	1592	The Comedy of Errors (1592)	male
+Err.xml	Balthasar	207	Comedy	1592	The Comedy of Errors (1592)	male
+Per.xml	Pander	237	Comedy	1608	Pericles (1608)	male
+Per.xml	Helicanus	975	Comedy	1608	Pericles (1608)	male
+Per.xml	Cerimon	818	Comedy	1608	Pericles (1608)	male
+Per.xml	Dionyza	704	Comedy	1608	Pericles (1608)	female
+Per.xml	Antiochus	532	Comedy	1608	Pericles (1608)	male
+Per.xml	Leonine	180	Comedy	1608	Pericles (1608)	male
+Per.xml	Bawd	914	Comedy	1608	Pericles (1608)	female
+Per.xml	Bolt	711	Comedy	1608	Pericles (1608)	male
+Per.xml	Marina	1342	Comedy	1608	Pericles (1608)	female
+Per.xml	Pericles	4847	Comedy	1608	Pericles (1608)	male
+Per.xml	Gower	2325	Comedy	1608	Pericles (1608)	male
+Per.xml	Daughter	17	Comedy	1608	Pericles (1608)	female
+Per.xml	Lysimachus	816	Comedy	1608	Pericles (1608)	male
+Per.xml	Marshal	8	Comedy	1608	Pericles (1608)	male
+Per.xml	Thaisa	691	Comedy	1608	Pericles (1608)	female
+Per.xml	Diana	75	Comedy	1608	Pericles (1608)	female
+Per.xml	Simonides	1276	Comedy	1608	Pericles (1608)	male
+Per.xml	Philemon	5	Comedy	1608	Pericles (1608)	male
+Per.xml	Thaliard	228	Comedy	1608	Pericles (1608)	male
+Per.xml	Cleon	873	Comedy	1608	Pericles (1608)	male
+Per.xml	Lychorida	83	Comedy	1608	Pericles (1608)	female
+MV.xml	LanceletGobbo	1543	Comedy	1596	The Merchant of Venice (1596)	male
+MV.xml	Portia	4930	Comedy	1596	The Merchant of Venice (1596)	female
+MV.xml	Salarino	745	Comedy	1596	The Merchant of Venice (1596)	male
+MV.xml	Solanio	576	Comedy	1596	The Merchant of Venice (1596)	male
+MV.xml	Jessica	733	Comedy	1596	The Merchant of Venice (1596)	female
+MV.xml	Duke	600	Comedy	1596	The Merchant of Venice (1596)	male
+MV.xml	Tubal	104	Comedy	1596	The Merchant of Venice (1596)	male
+MV.xml	OldGobbo	313	Comedy	1596	The Merchant of Venice (1596)	male
+MV.xml	Arragon	517	Comedy	1596	The Merchant of Venice (1596)	male
+MV.xml	Gratiano	1473	Comedy	1596	The Merchant of Venice (1596)	male
+MV.xml	Morocco	822	Comedy	1596	The Merchant of Venice (1596)	male
+MV.xml	Bassanio	2738	Comedy	1596	The Merchant of Venice (1596)	male
+MV.xml	Shylock	2997	Comedy	1596	The Merchant of Venice (1596)	male
+MV.xml	Lorenzo	1439	Comedy	1596	The Merchant of Venice (1596)	male
+MV.xml	Antonio	1552	Comedy	1596	The Merchant of Venice (1596)	male
+MV.xml	Nerissa	801	Comedy	1596	The Merchant of Venice (1596)	female
+MV.xml	Salerio	190	Comedy	1596	The Merchant of Venice (1596)	male
+Tro.xml	Bastard	31	Tragedy	1602	Troilus and Cressida (1602)	male
+Tro.xml	Paris	785	Tragedy	1602	Troilus and Cressida (1602)	male
+Tro.xml	Pandarus	3412	Tragedy	1602	Troilus and Cressida (1602)	male
+Tro.xml	Calchas	248	Tragedy	1602	Troilus and Cressida (1602)	male
+Tro.xml	Hector	1668	Tragedy	1602	Troilus and Cressida (1602)	male
+Tro.xml	Diomedes	791	Tragedy	1602	Troilus and Cressida (1602)	male
+Tro.xml	Thersites	2508	Tragedy	1602	Troilus and Cressida (1602)	male
+Tro.xml	Nestor	1227	Tragedy	1602	Troilus and Cressida (1602)	male
+Tro.xml	Helenus	38	Tragedy	1602	Troilus and Cressida (1602)	male
+Tro.xml	Cressida	2368	Tragedy	1602	Troilus and Cressida (1602)	female
+Tro.xml	Aeneas	1137	Tragedy	1602	Troilus and Cressida (1602)	male
+Tro.xml	Patroclus	479	Tragedy	1602	Troilus and Cressida (1602)	male
+Tro.xml	Priam	153	Tragedy	1602	Troilus and Cressida (1602)	male
+Tro.xml	Ajax	646	Tragedy	1602	Troilus and Cressida (1602)	male
+Tro.xml	Menelaus	118	Tragedy	1602	Troilus and Cressida (1602)	male
+Tro.xml	Helen	208	Tragedy	1602	Troilus and Cressida (1602)	female
+Tro.xml	Achilles	1502	Tragedy	1602	Troilus and Cressida (1602)	male
+Tro.xml	Alexander	269	Tragedy	1602	Troilus and Cressida (1602)	male
+Tro.xml	Boy	18	Tragedy	1602	Troilus and Cressida (1602)	male
+Tro.xml	Antenor	5	Tragedy	1602	Troilus and Cressida (1602)	male
+Tro.xml	Andromache	123	Tragedy	1602	Troilus and Cressida (1602)	female
+Tro.xml	Agamemnon	1568	Tragedy	1602	Troilus and Cressida (1602)	male
+Tro.xml	Ulysses	3684	Tragedy	1602	Troilus and Cressida (1602)	male
+Tro.xml	Deiphobus	17	Tragedy	1602	Troilus and Cressida (1602)	male
+Tro.xml	Troilus	4253	Tragedy	1602	Troilus and Cressida (1602)	male
+Tro.xml	Cassandra	280	Tragedy	1602	Troilus and Cressida (1602)	female
+R3.xml	RichardIII	9637	History	1593	Richard III (1593)	male
+R3.xml	Scrivener	128	History	1593	Richard III (1593)	male
+R3.xml	Archbishop	108	History	1593	Richard III (1593)	male
+R3.xml	Jailer	80	History	1593	Richard III (1593)	male
+R3.xml	Lovell	22	History	1593	Richard III (1593)	male
+R3.xml	Cardinal	76	History	1593	Richard III (1593)	male
+R3.xml	QueenMargaret	1864	History	1593	Richard III (1593)	female
+R3.xml	BishopOfEly	56	History	1593	Richard III (1593)	male
+R3.xml	Blunt	70	History	1593	Richard III (1593)	male
+R3.xml	LadyAnne	1347	History	1593	Richard III (1593)	female
+R3.xml	MayorOfLondon	124	History	1593	Richard III (1593)	male
+R3.xml	Clarence	1395	History	1593	Richard III (1593)	male
+R3.xml	Catesby	481	History	1593	Richard III (1593)	male
+R3.xml	EdwardV	469	History	1593	Richard III (1593)	male
+R3.xml	Buckingham	3124	History	1593	Richard III (1593)	male
+R3.xml	SirJohn	22	History	1593	Richard III (1593)	male
+R3.xml	Ratcliffe	238	History	1593	Richard III (1593)	male
+R3.xml	York	442	History	1593	Richard III (1593)	male
+R3.xml	SirChristopher	60	History	1593	Richard III (1593)	male
+R3.xml	Oxford	14	History	1593	Richard III (1593)	male
+R3.xml	Dorset	138	History	1593	Richard III (1593)	male
+R3.xml	Sheriff	11	History	1593	Richard III (1593)	male
+R3.xml	Norfolk	83	History	1593	Richard III (1593)	male
+R3.xml	Pursuivant	28	History	1593	Richard III (1593)	male
+R3.xml	Tyrrel	286	History	1593	Richard III (1593)	male
+R3.xml	Grey	161	History	1593	Richard III (1593)	male
+R3.xml	Herbert	11	History	1593	Richard III (1593)	male
+R3.xml	DuchessOfYork	1170	History	1593	Richard III (1593)	female
+R3.xml	QueenElizabeth	2387	History	1593	Richard III (1593)	female
+R3.xml	Hastings	1268	History	1593	Richard III (1593)	male
+R3.xml	Surrey	10	History	1593	Richard III (1593)	male
+R3.xml	ClarencesDaughter	67	History	1593	Richard III (1593)	female
+R3.xml	ClarencesBoy	208	History	1593	Richard III (1593)	male
+R3.xml	Rivers	489	History	1593	Richard III (1593)	male
+R3.xml	Brakenbury	248	History	1593	Richard III (1593)	male
+R3.xml	Stanley	914	History	1593	Richard III (1593)	male
+R3.xml	HenryVII	1170	History	1593	Richard III (1593)	male
+R3.xml	EdwardIV	559	History	1593	Richard III (1593)	male
+R3.xml	Vaughan	60	History	1593	Richard III (1593)	male
+2H6.xml	Beadle	13	History	1591	2 Henry VI (1591)	male
+2H6.xml	Sheriff	36	History	1591	2 Henry VI (1591)	male
+2H6.xml	SimpcoxWife	63	History	1591	2 Henry VI (1591)	male
+2H6.xml	Warwick	1150	History	1591	2 Henry VI (1591)	male
+2H6.xml	Whitmore	168	History	1591	2 Henry VI (1591)	male
+2H6.xml	Bolingbroke	263	History	1591	2 Henry VI (1591)	male
+2H6.xml	Jourdain	28	History	1591	2 Henry VI (1591)	female
+2H6.xml	Mate	15	History	1591	2 Henry VI (1591)	male
+2H6.xml	QueenMargaret	2737	History	1591	2 Henry VI (1591)	female
+2H6.xml	Thump	212	History	1591	2 Henry VI (1591)	male
+2H6.xml	Somerset	198	History	1591	2 Henry VI (1591)	male
+2H6.xml	Hume	265	History	1591	2 Henry VI (1591)	male
+2H6.xml	RichardIII	243	History	1591	2 Henry VI (1591)	male
+2H6.xml	Lieutenant	522	History	1591	2 Henry VI (1591)	male
+2H6.xml	Vaux	85	History	1591	2 Henry VI (1591)	male
+2H6.xml	Clerk	20	History	1591	2 Henry VI (1591)	male
+2H6.xml	HenryVI	2881	History	1591	2 Henry VI (1591)	male
+2H6.xml	Buckingham	661	History	1591	2 Henry VI (1591)	male
+2H6.xml	York	3333	History	1591	2 Henry VI (1591)	male
+2H6.xml	Simpcox	213	History	1591	2 Henry VI (1591)	male
+2H6.xml	Spirit	66	History	1591	2 Henry VI (1591)	male
+2H6.xml	Smith	205	History	1591	2 Henry VI (1591)	male
+2H6.xml	Cade	2383	History	1591	2 Henry VI (1591)	male
+2H6.xml	Dick	398	History	1591	2 Henry VI (1591)	male
+2H6.xml	Holland	248	History	1591	2 Henry VI (1591)	male
+2H6.xml	CardinalBeaufort	885	History	1591	2 Henry VI (1591)	male
+2H6.xml	Michael	92	History	1591	2 Henry VI (1591)	male
+2H6.xml	Master	10	History	1591	2 Henry VI (1591)	male
+2H6.xml	MayorOfStAlbans	20	History	1591	2 Henry VI (1591)	male
+2H6.xml	Horner	181	History	1591	2 Henry VI (1591)	male
+2H6.xml	Gloucester	2539	History	1591	2 Henry VI (1591)	male
+2H6.xml	Iden	482	History	1591	2 Henry VI (1591)	male
+2H6.xml	WilliamStafford	53	History	1591	2 Henry VI (1591)	male
+2H6.xml	Scales	83	History	1591	2 Henry VI (1591)	male
+2H6.xml	Bevis	205	History	1591	2 Henry VI (1591)	male
+2H6.xml	Suffolk	2459	History	1591	2 Henry VI (1591)	male
+2H6.xml	Saye	395	History	1591	2 Henry VI (1591)	male
+2H6.xml	Salisbury	749	History	1591	2 Henry VI (1591)	male
+2H6.xml	Stanley	65	History	1591	2 Henry VI (1591)	male
+2H6.xml	Stafford	124	History	1591	2 Henry VI (1591)	male
+2H6.xml	EdwardIV	9	History	1591	2 Henry VI (1591)	male
+2H6.xml	George	60	History	1591	2 Henry VI (1591)	male
+2H6.xml	DuchessOfGloucester	1033	History	1591	2 Henry VI (1591)	female
+2H6.xml	Clifford	908	History	1591	2 Henry VI (1591)	male
+Tmp.xml	Shipmaster	23	Comedy	1611	The Tempest (1611)	male
+Tmp.xml	Caliban	1440	Comedy	1611	The Tempest (1611)	male
+Tmp.xml	Prospero	5132	Comedy	1611	The Tempest (1611)	male
+Tmp.xml	Alonso	845	Comedy	1611	The Tempest (1611)	male
+Tmp.xml	Gonzalo	1306	Comedy	1611	The Tempest (1611)	male
+Tmp.xml	Antonio	1080	Comedy	1611	The Tempest (1611)	male
+Tmp.xml	Adrian	87	Comedy	1611	The Tempest (1611)	male
+Tmp.xml	Francisco	81	Comedy	1611	The Tempest (1611)	male
+Tmp.xml	Stephano	1462	Comedy	1611	The Tempest (1611)	male
+Tmp.xml	Miranda	1082	Comedy	1611	The Tempest (1611)	female
+Tmp.xml	Boatswain	387	Comedy	1611	The Tempest (1611)	male
+Tmp.xml	Ferdinand	1056	Comedy	1611	The Tempest (1611)	male
+Tmp.xml	Sebastian	809	Comedy	1611	The Tempest (1611)	male
+Tmp.xml	Trinculo	888	Comedy	1611	The Tempest (1611)	male
+Tmp.xml	Ariel	1437	Comedy	1611	The Tempest (1611)	male
+Cym.xml	Cloten	2168	Tragedy	1609	Cymbeline (1609)	male
+Cym.xml	Imogen	4773	Tragedy	1609	Cymbeline (1609)	female
+Cym.xml	Belarius	2749	Tragedy	1609	Cymbeline (1609)	male
+Cym.xml	Iachimo	3366	Tragedy	1609	Cymbeline (1609)	male
+Cym.xml	Soothsayer	322	Tragedy	1609	Cymbeline (1609)	male
+Cym.xml	Guiderius	1363	Tragedy	1609	Cymbeline (1609)	male
+Cym.xml	Cymbeline	2189	Tragedy	1609	Cymbeline (1609)	male
+Cym.xml	Philario	317	Tragedy	1609	Cymbeline (1609)	male
+Cym.xml	Arviragus	1115	Tragedy	1609	Cymbeline (1609)	male
+Cym.xml	Frenchman	189	Tragedy	1609	Cymbeline (1609)	male
+Cym.xml	Pisanio	1641	Tragedy	1609	Cymbeline (1609)	male
+Cym.xml	Lucius	779	Tragedy	1609	Cymbeline (1609)	male
+Cym.xml	Queen	1291	Tragedy	1609	Cymbeline (1609)	female
+Cym.xml	Posthumus	3697	Tragedy	1609	Cymbeline (1609)	male
+Cym.xml	Jupiter	161	Tragedy	1609	Cymbeline (1609)	male
+Cym.xml	Cornelius	547	Tragedy	1609	Cymbeline (1609)	male
+H8.xml	Campeius	398	History	1613	Henry VIII (1613)	male
+H8.xml	Lovell	517	History	1613	Henry VIII (1613)	male
+H8.xml	Brandon	90	History	1613	Henry VIII (1613)	male
+H8.xml	Sergeant	31	History	1613	Henry VIII (1613)	male
+H8.xml	HenryVIII	3769	History	1613	Henry VIII (1613)	male
+H8.xml	Anne	397	History	1613	Henry VIII (1613)	female
+H8.xml	Cromwell	335	History	1613	Henry VIII (1613)	male
+H8.xml	Chamberlain	1197	History	1613	Henry VIII (1613)	male
+H8.xml	Vaux	30	History	1613	Henry VIII (1613)	male
+H8.xml	Chancellor	221	History	1613	Henry VIII (1613)	male
+H8.xml	Gardiner	697	History	1613	Henry VIII (1613)	male
+H8.xml	Guilford	79	History	1613	Henry VIII (1613)	male
+H8.xml	Buckingham	1566	History	1613	Henry VIII (1613)	male
+H8.xml	Katherine	3055	History	1613	Henry VIII (1613)	female
+H8.xml	Keeper	52	History	1613	Henry VIII (1613)	male
+H8.xml	Usher	7	History	1613	Henry VIII (1613)	male
+H8.xml	Wolsey	3421	History	1613	Henry VIII (1613)	male
+H8.xml	Norfolk	1565	History	1613	Henry VIII (1613)	male
+H8.xml	Abergavenny	119	History	1613	Henry VIII (1613)	male
+H8.xml	Butts	66	History	1613	Henry VIII (1613)	male
+H8.xml	Denny	24	History	1613	Henry VIII (1613)	male
+H8.xml	Page	4	History	1613	Henry VIII (1613)	male
+H8.xml	Surrey	548	History	1613	Henry VIII (1613)	male
+H8.xml	OldLady	728	History	1613	Henry VIII (1613)	female
+H8.xml	Garter	27	History	1613	Henry VIII (1613)	male
+H8.xml	Capuchius	70	History	1613	Henry VIII (1613)	male
+H8.xml	BishopOfLincoln	54	History	1613	Henry VIII (1613)	male
+H8.xml	Suffolk	682	History	1613	Henry VIII (1613)	male
+H8.xml	Crier	52	History	1613	Henry VIII (1613)	male
+H8.xml	Surveyor	458	History	1613	Henry VIII (1613)	male
+H8.xml	Sands	429	History	1613	Henry VIII (1613)	male
+H8.xml	Cranmer	1089	History	1613	Henry VIII (1613)	male
+H8.xml	Griffith	587	History	1613	Henry VIII (1613)	male
+TN.xml	Feste	2630	Comedy	1600	Twelfth Night (1600)	male
+TN.xml	Sebastian	1074	Comedy	1600	Twelfth Night (1600)	male
+TN.xml	AndrewAguecheek	1320	Comedy	1600	Twelfth Night (1600)	male
+TN.xml	Priest	58	Comedy	1600	Twelfth Night (1600)	male
+TN.xml	TobyBelch	3008	Comedy	1600	Twelfth Night (1600)	male
+TN.xml	Malvolio	2359	Comedy	1600	Twelfth Night (1600)	male
+TN.xml	Fabian	943	Comedy	1600	Twelfth Night (1600)	male
+TN.xml	Olivia	2587	Comedy	1600	Twelfth Night (1600)	female
+TN.xml	Viola	2775	Comedy	1600	Twelfth Night (1600)	female
+TN.xml	Captain	249	Comedy	1600	Twelfth Night (1600)	male
+TN.xml	Orsino	1755	Comedy	1600	Twelfth Night (1600)	male
+TN.xml	Antonio	861	Comedy	1600	Twelfth Night (1600)	male
+TN.xml	Maria	1313	Comedy	1600	Twelfth Night (1600)	female
